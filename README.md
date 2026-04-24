@@ -142,7 +142,7 @@
 
     <div class="main-container">
         <div class="payment-header">
-            <div class="service-title">Weekly Diamond Pass</div>
+            <div class="service-title">Weekly Diamond Pass - Activasi Akun </div>
             <div class="price">Rp. 27.000</div>
         </div>
 
