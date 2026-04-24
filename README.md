@@ -185,7 +185,7 @@
         <div class="payment-detail">
             <div class="detail-label">Pembayaran melalui</div>
             <div class="detail-value">
-                <span>QRI</span>
+                <span>QRIS</span>
             </div>
         </div>
 
